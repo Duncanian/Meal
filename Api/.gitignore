@@ -1,5 +1,4 @@
-#Ignore the venv folder
+#Ignore the following folders
 
-venv/
 __pycache__/
 *.pyc
