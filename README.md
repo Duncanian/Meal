@@ -1,4 +1,4 @@
-https://travis-ci.org/Duncanian/Meal.svg?branch=feature
+[![Build Status](https://travis-ci.org/Duncanian/Meal.svg?branch=feature)](https://travis-ci.org/Duncanian/Meal)
 
 ### Meal API
 
