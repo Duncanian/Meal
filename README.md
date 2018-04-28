@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/Duncanian/Meal.svg?branch=feature)](https://travis-ci.org/Duncanian/Meal)
+[![Coverage Status](https://coveralls.io/repos/github/Duncanian/Meal/badge.svg?branch=master)](https://coveralls.io/github/Duncanian/Meal?branch=master)
 
 ### Meal API
 
