@@ -1,3 +1,5 @@
+https://travis-ci.org/Duncanian/Meal.svg?branch=feature
+
 ### Meal API
 
 #### Description
